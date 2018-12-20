@@ -176,14 +176,25 @@
     </message>
 </context>
 <context>
-    <name>CDirManeger</name>
+    <name>CDirManager</name>
     <message>
         <source> not found.</source>
-        <translation> не найден.</translation>
+        <translation type="obsolete"> не найден.</translation>
     </message>
     <message>
         <source>Can not run </source>
-        <translation>Не удается запустить </translation>
+        <translation type="obsolete">Не удается запустить </translation>
+    </message>
+</context>
+<context>
+    <name>CDirManeger</name>
+    <message>
+        <source> not found.</source>
+        <translation type="vanished"> не найден.</translation>
+    </message>
+    <message>
+        <source>Can not run </source>
+        <translation type="vanished">Не удается запустить </translation>
     </message>
 </context>
 <context>
@@ -942,14 +953,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Hide Tray Icon</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use White Icon</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Run Settings.exe to display tray icon when it&apos;s hidden.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -967,6 +970,14 @@
     </message>
     <message>
         <source>Directory Opus:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide tray icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use white icon</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

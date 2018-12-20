@@ -226,14 +226,25 @@
     </message>
 </context>
 <context>
+    <name>CDirManager</name>
+    <message>
+        <source> not found.</source>
+        <translation type="obsolete">No encontrado.</translation>
+    </message>
+    <message>
+        <source>Can not run </source>
+        <translation type="obsolete">No se puede ejecutar </translation>
+    </message>
+</context>
+<context>
     <name>CDirManeger</name>
     <message>
         <source>Can not run </source>
-        <translation>No se puede ejecutar </translation>
+        <translation type="vanished">No se puede ejecutar </translation>
     </message>
     <message>
         <source> not found.</source>
-        <translation>No encontrado.</translation>
+        <translation type="vanished">No encontrado.</translation>
     </message>
 </context>
 <context>
@@ -1005,14 +1016,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Hide Tray Icon</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use White Icon</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Run Settings.exe to display tray icon when it&apos;s hidden.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1030,6 +1033,14 @@
     </message>
     <message>
         <source>Directory Opus:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide tray icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use white icon</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

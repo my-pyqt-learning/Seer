@@ -210,14 +210,25 @@
     </message>
 </context>
 <context>
+    <name>CDirManager</name>
+    <message>
+        <source> not found.</source>
+        <translation type="obsolete">見つかりません。</translation>
+    </message>
+    <message>
+        <source>Can not run </source>
+        <translation type="obsolete">実行できません</translation>
+    </message>
+</context>
+<context>
     <name>CDirManeger</name>
     <message>
         <source>Can not run </source>
-        <translation>実行できません</translation>
+        <translation type="vanished">実行できません</translation>
     </message>
     <message>
         <source> not found.</source>
-        <translation>見つかりません。</translation>
+        <translation type="vanished">見つかりません。</translation>
     </message>
 </context>
 <context>
@@ -987,11 +998,11 @@
     </message>
     <message>
         <source>Hide Tray Icon</source>
-        <translation>トレイアイコン非表示</translation>
+        <translation type="vanished">トレイアイコン非表示</translation>
     </message>
     <message>
         <source>Use White Icon</source>
-        <translation>白系アイコンを使う</translation>
+        <translation type="vanished">白系アイコンを使う</translation>
     </message>
     <message>
         <source>Run Settings.exe to display tray icon when it&apos;s hidden.</source>
@@ -1013,6 +1024,14 @@
     <message>
         <source>Directory Opus:</source>
         <translation>ディレクトリオーパス:</translation>
+    </message>
+    <message>
+        <source>Hide tray icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use white icon</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
