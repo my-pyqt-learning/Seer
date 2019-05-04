@@ -273,6 +273,10 @@
         <source>Open Selected Item With Default Application</source>
         <translation>選択アイテムを既定のアプリで開く</translation>
     </message>
+    <message>
+        <source>File is encrypted.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CFileCollector</name>
@@ -1376,6 +1380,38 @@
     </message>
     <message>
         <source>Next type file:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reveal Clicked Item:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alt + Click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Clicked Item:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shift + Click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Clicked Item With Seer:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shift + Alt + Click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restore:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
